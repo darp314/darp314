@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF474D,100:EF474D&height=150&section=header" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com/?font=Unbounded&weight=500&size=34&duration=1&pause=999999&color=EF474D&center=true&vCenter=true&width=420&height=60&repeat=false&lines=Hi%2C+I%27m+Daryna!" alt="Hi, I'm Daryna!" />
-<img src="https://readme-typing-svg.demolab.com/?font=Work+Sans&weight=500&size=24&duration=4500&pause=1500&color=FEFEFE&center=true&vCenter=true&width=700&height=60&lines=Junior+Front-End+Developer;UI%2FUX+Enthusiast;Professional+Bug+Huntress" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Work+Sans&weight=500&size=24&duration=4500&pause=1500&color=FEFEFE&center=true&vCenter=true&width=700&height=60&lines=Junior+Front-End+Developer;UI%2FUX+Enthusiast;Professional+Bug+Huntress+%F0%9F%98%8E" alt="Typing SVG" />
 <br/>
 <img src="https://img.shields.io/badge/🎓_Education-Master%20of%20Computer%20Science-EF474D?style=for-the-badge&labelColor=050505" alt="Education"/>
 <img src="https://img.shields.io/badge/🍋_Lemon%20School-Front--End%20(HTML%2FCSS%2BJS)-EF474D?style=for-the-badge&labelColor=050505" alt="Lemon School"/>
